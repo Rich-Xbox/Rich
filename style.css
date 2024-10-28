@@ -1,0 +1,161 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .container{
+  max-width:1400px;
+  margin:0 auto;
+  }
+  .navbar{
+    background-color: white;
+    /* border: 2px solid black; */
+    width: Fixed (1,440px)px;
+height: Hug (97px)px;
+padding: 24px 0px 0px 0px;
+gap: 0px;
+opacity: 0px;
+
+  }
+ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.nnav{
+    display: flex;
+    justify-content:space-between;
+}
+a:hover{
+    color: red;
+}
+.manu{
+    color: red;
+    border: 2px solid red;
+    background-color: white;
+    padding: 5px 20px ;
+    font-size: 20px;
+}
+.manu:hover{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+
+}
+.rasm{
+    background-image: url("./image\ 4\ \(1\).png");
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 1400px;
+height: 533px;
+top: 98px;
+gap: 0px;
+opacity: 0px;
+
+display: flex;
+/* align-items: center; */
+justify-content: space-between;
+}
+h1{
+    width: 500px;
+height: 82.29px;
+top: 235.8px;
+left: 170px;
+gap: 0px;
+opacity: 0px;
+color: white;
+}
+.soz{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.buut{
+    color: white;
+    background-color: red;
+    border: 2px solid red;
+    padding: 5px 20px ;
+    font-size: 20px;
+}
+.buut:hover{
+    color: red;
+    background-color: white;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+.xizmatbir{
+    display: flex;
+    border: 2px solid red;
+
+}
+h6{
+    font-size: 40px;
+}
+.ichi{
+    border: 2px solid red;
+    width: 900px;
+}
+p{
+    font-size: 20px;
+}
+.onin{
+    font-size: 5px;
+}
+h3{
+    font-size: 20px;
+}
+h4{
+    font-size: 40px;
+}
+.contac{
+    background: rgba(14, 180, 193, 1);
+    width: 1440px;
+    height: 669px;
+    top: 1447px;
+    left: 1px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.jonat{
+    background-color: rgba(56, 204, 139, 1);
+    color: white;
+    border: 1px solid black;
+    font-size: 20px;
+    padding: 10px 211px;
+    border-radius: 10px ;
+}
+input{
+    font-size: 20px;
+    width: 600px;
+    height: 50px;
+}
+.ism{
+    background-color: white;
+    width: 650px;
+    height: 294px;
+    display: flex;
+    align-items: center;
+    display: block;
+}
+.xar{
+    display: flex;
+    gap: 50px;
+}
+.foot{
+    display: flex;
+    justify-content:space-between;
+    background-color: black;
+    
+}
